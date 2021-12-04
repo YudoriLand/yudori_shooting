@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "town_sprite_sheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 467,
+				"h": 625
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "background_town_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					}
+				},
+				{
+					"filename": "background_town_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 125,
+						"w": 467,
+						"h": 125
+					}
+				},
+				{
+					"filename": "background_town_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 250,
+						"w": 467,
+						"h": 125
+					}
+				},
+				{
+					"filename": "background_town_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 375,
+						"w": 467,
+						"h": 125
+					}
+				},
+				{
+					"filename": "background_town_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 125
+					},
+					"frame": {
+						"x": 0,
+						"y": 500,
+						"w": 467,
+						"h": 125
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:21a747379e486631873d248fbfa97498:78924fbc3d9a6647a9dddf2728612599:19a0dc2aad6b33ced7d37a2638d869c5$"
+	}
+}

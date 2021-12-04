@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "yudori_sprite_sheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 62,
+				"h": 768
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "yudori_idle_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_idle_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 96,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_idle_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 192,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_idle_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 288,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_shoot_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 384,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_shoot_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 480,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_shoot_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 576,
+						"w": 62,
+						"h": 96
+					}
+				},
+				{
+					"filename": "yudori_shoot_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 96
+					},
+					"frame": {
+						"x": 0,
+						"y": 672,
+						"w": 62,
+						"h": 96
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:157c2a7c55b05f1ca77d9dface544cbd:9536369064e97a477a21f4dbb4c33729:b18d4f129c0d4c3aca06a67aef1164f9$"
+	}
+}

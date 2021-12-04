@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "enemy_sprite_sheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 198,
+				"h": 63
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy_paper.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					}
+				},
+				{
+					"filename": "enemy_rock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					},
+					"frame": {
+						"x": 66,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					}
+				},
+				{
+					"filename": "enemy_scissors.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					},
+					"frame": {
+						"x": 132,
+						"y": 0,
+						"w": 66,
+						"h": 63
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:291ff992d05c779642cc71f058bd9a18:c0e479ad4cd6ff8a1bd959a0ecbeb4fb:d4f35dea2931564e6d3a0ed91305e73d$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "yudori_little_sprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 111,
+				"h": 165
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "yudori_little_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 81
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 81
+					}
+				},
+				{
+					"filename": "yudori_little_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 84
+					},
+					"frame": {
+						"x": 0,
+						"y": 81,
+						"w": 111,
+						"h": 84
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:49ea70ea5a341fae1d67d75a430def8d:ad7f2846f34e44e038e397e3c4ad7533:6f5e5b35fd1ac5a057987cbdf0c8c1bb$"
+	}
+}
